@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employee>
+
+<emp_id1 emno="100">
+<Ename>tamil</Ename>
+<department>QA</department>
+<email_id>tamil@gmail.com</email_id>
+</emp_id1>
+
+<emp_id2 emno="101">
+<Ename>arun</Ename>
+<department>develover</department>
+<email_id>arun@gmail.com</email_id>
+</emp_id2>
+
+<emp_id3 emno="102">
+<Ename>kanna</Ename>
+<department>support</department>
+<email_id>bala@gmail.com</email_id>
+</emp_id3>
+
+<emp_id4 emno="103">
+<Ename>ram</Ename>
+<department>support</department>
+<email_id>ram@gmail.com</email_id>
+</emp_id4>
+
+
+</employee>
